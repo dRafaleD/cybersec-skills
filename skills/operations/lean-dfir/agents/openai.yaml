@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean DFIR"
+  short_description: "Authorized forensics, no image dumps"
+  default_prompt: "Use $lean-dfir to hash this evidence and summarize the logs we already collected into a compact timeline."
+policy:
+  allow_implicit_invocation: true

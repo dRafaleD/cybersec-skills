@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean Web"
+  short_description: "Defensive web review, low tokens"
+  default_prompt: "Use $lean-web to run a token-efficient defensive web security review of this app and report header and sink fixes."
+policy:
+  allow_implicit_invocation: true

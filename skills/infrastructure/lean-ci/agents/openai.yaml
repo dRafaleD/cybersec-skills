@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean CI"
+  short_description: "Defensive CI supply-chain review"
+  default_prompt: "Use $lean-ci to review GitHub Actions and GitLab CI in this repo for write-all, unpinned actions, and fork-PR secret exposure."
+policy:
+  allow_implicit_invocation: true

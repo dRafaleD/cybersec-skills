@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean Mobile"
+  short_description: "Defensive Android/iOS config review"
+  default_prompt: "Use $lean-mobile to review AndroidManifest and Info.plist for exported components, backup, and ATS exceptions."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean Review"
+  short_description: "Cheap PR review from diff stats"
+  default_prompt: "Use $lean-review to summarize git diff stats and review the highest-churn files for correctness and missing tests."
+policy:
+  allow_implicit_invocation: true

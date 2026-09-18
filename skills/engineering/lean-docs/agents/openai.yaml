@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean Docs"
+  short_description: "README and API documentation gaps"
+  default_prompt: "Use $lean-docs to find missing README sections and undocumented public APIs, then patch the smallest accurate gaps."
+policy:
+  allow_implicit_invocation: true

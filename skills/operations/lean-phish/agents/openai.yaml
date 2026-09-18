@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean Phish"
+  short_description: "Defensive email phishing triage"
+  default_prompt: "Use $lean-phish to peek this .eml without opening attachments and report header mismatches plus containment steps."
+policy:
+  allow_implicit_invocation: true

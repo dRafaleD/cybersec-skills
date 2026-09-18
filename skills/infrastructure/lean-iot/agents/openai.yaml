@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean IoT"
+  short_description: "Defensive IoT config hardening"
+  default_prompt: "Use $lean-iot to review local device config for default passwords, telnet, and open MQTT, then report compact hardening."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean OSINT"
+  short_description: "Authorized OSINT, compact cards"
+  default_prompt: "Use $lean-osint to collect authorized public-source intel on our own domain and return compact sourced cards with defensive next steps."
+policy:
+  allow_implicit_invocation: true

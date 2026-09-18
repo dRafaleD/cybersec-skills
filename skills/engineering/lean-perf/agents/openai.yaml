@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean Perf"
+  short_description: "N+1 and unbounded I/O review"
+  default_prompt: "Use $lean-perf to find N-plus-1 loops, SELECT star, and unbounded reads, then report compact hot-path fixes."
+policy:
+  allow_implicit_invocation: true

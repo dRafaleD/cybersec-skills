@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean Privacy"
+  short_description: "PII review without printing values"
+  default_prompt: "Use $lean-privacy to find likely PII in this repo without printing values, then report minimization and log-redaction fixes."
+policy:
+  allow_implicit_invocation: true

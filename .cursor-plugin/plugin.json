@@ -1,0 +1,35 @@
+{
+  "name": "lean-sec",
+  "displayName": "Lean Sec Family",
+  "version": "1.3.0",
+  "description": "Token-efficient skills for defensive security plus cheap review, docs, perf, a11y, and cost.",
+  "author": {
+    "name": "lean-sec contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "appsec",
+    "web-security",
+    "network",
+    "dfir",
+    "osint",
+    "cloud",
+    "iam",
+    "privacy",
+    "pii",
+    "ci",
+    "phishing",
+    "malware",
+    "crypto",
+    "mobile",
+    "iot",
+    "hardening",
+    "review",
+    "performance",
+    "a11y",
+    "agent-skills",
+    "codex",
+    "token-efficiency"
+  ]
+}

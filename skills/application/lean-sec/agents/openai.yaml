@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean Sec"
+  short_description: "Token-efficient defensive security"
+  default_prompt: "Use $lean-sec to run a token-efficient defensive security review of this repository and report the highest-impact fixes."
+policy:
+  allow_implicit_invocation: true

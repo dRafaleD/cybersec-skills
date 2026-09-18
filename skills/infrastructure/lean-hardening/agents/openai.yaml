@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean Hardening"
+  short_description: "OS and container baseline review"
+  default_prompt: "Use $lean-hardening to review Dockerfiles and SSH/sudo snippets for root, password auth, and privileged flags."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean Crypto"
+  short_description: "Defensive crypto hygiene review"
+  default_prompt: "Use $lean-crypto to find weak hashes, ECB, and bad RNGs in this repo and report compact primitive upgrades."
+policy:
+  allow_implicit_invocation: true

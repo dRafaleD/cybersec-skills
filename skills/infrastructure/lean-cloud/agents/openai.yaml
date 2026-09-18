@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean Cloud"
+  short_description: "Defensive IAM and cloud review"
+  default_prompt: "Use $lean-cloud to review local Terraform and IAM config for wildcards and public storage, then report compact least-privilege fixes."
+policy:
+  allow_implicit_invocation: true

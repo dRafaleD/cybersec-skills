@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean Deps"
+  short_description: "Manifest-only dependency summary"
+  default_prompt: "Use $lean-deps to summarize direct dependencies from manifests without dumping lockfiles, and flag missing lockfiles or floating latest."
+policy:
+  allow_implicit_invocation: true

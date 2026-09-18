@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean A11y"
+  short_description: "Alt, labels, keyboard a11y review"
+  default_prompt: "Use $lean-a11y to find images without alt, click-only divs, and unlabeled inputs, then report compact accessible-name fixes."
+policy:
+  allow_implicit_invocation: true

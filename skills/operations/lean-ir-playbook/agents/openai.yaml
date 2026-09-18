@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean IR Playbook"
+  short_description: "First-30-minutes IR checklist"
+  default_prompt: "Use $lean-ir-playbook to draft a compact first-30-minutes containment checklist for an incident on systems we own."
+policy:
+  allow_implicit_invocation: true

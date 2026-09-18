@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean Net"
+  short_description: "Defensive network exposure review"
+  default_prompt: "Use $lean-net to review local Docker, Kubernetes, and firewall config for accidental public exposure and report compact hardening fixes."
+policy:
+  allow_implicit_invocation: true

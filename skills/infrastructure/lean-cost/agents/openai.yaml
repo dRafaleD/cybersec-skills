@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean Cost"
+  short_description: "Cloud and CI cost spend cuts"
+  default_prompt: "Use $lean-cost to find always-on compute, latest images, and heavy CI artifacts in local config and report compact spend cuts."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean Threat Model"
+  short_description: "Compact STRIDE-style threat cards"
+  default_prompt: "Use $lean-threat-model to write a compact asset-actor-boundary-abuse-control card for this system."
+policy:
+  allow_implicit_invocation: true
